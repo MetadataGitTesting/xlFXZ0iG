@@ -37,32 +37,6 @@ pipelines:
       outputs: []
     subgraphs: []
     dependencies: {}
-  pipelines/deletedOnRightModifiedOnLeftSelectLeft:
-    name: deletedOnRightModifiedOnLeftSelectLeft
-    description: Really solid info
-    author: prvizmjc.pzzruigf@ngrnyogy.com
-    mode: batch
-    artefactID: ''
-    language: scala
-    createdAt: '2025-07-04 20:31:04'
-    datasets:
-      inputs: []
-      outputs: []
-    subgraphs: []
-    dependencies: {}
-  pipelines/deletedOnRightModifiedOnLeftSelectRight:
-    name: deletedOnRightModifiedOnLeftSelectRight
-    description: Really solid info
-    author: prvizmjc.pzzruigf@ngrnyogy.com
-    mode: batch
-    artefactID: ''
-    language: scala
-    createdAt: '2025-07-04 20:31:04'
-    datasets:
-      inputs: []
-      outputs: []
-    subgraphs: []
-    dependencies: {}
   pipelines/unModifiedPipeline:
     name: unModifiedPipeline
     description: Really solid info
